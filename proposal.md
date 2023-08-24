@@ -2,67 +2,61 @@
 
 #### Organizers Contacts:
 
-##### Aurora Makovac
- - Twitter: https://twitter.com/poppyseedDev
- - Discord: @poppyseeddev
- - Mail: aurora.makovac@gmail.com
+👩 **Aurora Makovac**
+- 🐦 Twitter: [poppyseedDev](https://twitter.com/poppyseedDev)
+- 🎮 Discord: @poppyseeddev
+- 💌 Mail: aurora.makovac@gmail.com
 
-Involvement in the Polkadot or Kusama ecosystem:
- - Technical writer KodaDot
- - Participant in polkadot blockchain academy
- - Member of Polkadot Developer Heroes Program
-
-##### Linda Mohamadova:
- - Twitter: https://twitter.com/Just_Luuuu
- - Discord: @just_luuuu
- - Mail: luu.kodadot@gmail.com 
-
-Involvement in the Polkadot or Kusama ecosystem:
- - Polkadot ambasador
- - Head of Artist Relations at KodaDot
+**Involvement in the Polkadot/Kusama Ecosystem:**
+Aurora Makovac has been an active contributor to the ecosystem. Her role as a technical writer at KodaDot showcases her capability to communicate intricate details of the blockchain world. Her participation in the Polkadot Blockchain Academy and her membership in the Polkadot Developer Heroes Program further emphasizes her commitment to the ecosystem's growth.
 
 ---
 
-- What type of events are you requesting funding for?
-We are requesting funding for an **extraordinary event**. We are creating a side event for Sub0.
+👩 **Linda Mohamadova:**
+- 🐦 Twitter: [Just_Luuuu](https://twitter.com/Just_Luuuu)
+- 🎮 Discord: @just_luuuu
+- 💌 Mail: luu.kodadot@gmail.com 
 
-- Is your event scheduled to occur within the next 30 days?
-No its within the next 27 days
+**Involvement in the Polkadot/Kusama Ecosystem:**
+Linda Mohamadova's passion for the ecosystem is evident through her active roles. As a Polkadot Ambassador, Linda bridges communities, bringing forth the mission and vision of Polkadot to broader audiences. Her leadership role as KodaDot's Head of Artist Relations underlines her multidimensional capabilities and commitment to the ecosystem.
 
-- When is your event occurring?
-20th of September from 9:30am till 11:30am
+---
+
+#### Event Details:
+
+- **Event Type:** We're curating a unique and compelling side event for Sub0, aiming to elevate the experience for attendees and participants alike. Our aim is to help grow the Polkadot ecosystem through HER DAO as well as encourage collaboration of women and inclusion of women in blockchain development.
+
+- **Esential Links**:
+   + 🔗 [RSVP link](https://lu.ma/dzuqx5nw)
+   + 💬 [Telegram group](https://t.me/+J_lTQAUpH6oxOTFk)
+   + 📌 [Github Repo detailing TODO organizational tasks](https://github.com/poppyseedDev/her-dao-polkadot-meetup)
+
+- **Event Schedule:** Our meticulously planned event is scheduled for the 20th of September, running from 9:30 am to 11:30 am, ensuring ample time for meaningful interactions.
+
+- **Location:** The strategically chosen [Melbourne elouera in Lisbon](https://goo.gl/maps/NbeCJ48Y6cTpHWZg9) not only provides an ambient atmosphere for our gathering but is also conveniently located near Sub0, allowing for a smooth transition of attendees.
+
+- **Agenda & Attendees:** 
+   - **Welcome Talk:** A brief 2-3 minute introduction to shed light on the idea and motivation behind this event.
+   - **Introduction by Organizers:** Aurora and Linda will share their journeys and passion for the ecosystem.
+   - **Introduction Circle:** An engaging segment to encourage all attendees to introduce themselves, promoting networking and bonding.
+   - **Open Chat & Breakfast:** A casual and relaxed setting to discuss, share, and connect over a delightful breakfast.
   
-- Where is your event happening?
-At Lizbon, when the Sub0 will happen
-- What is the detailed agenda for your event? How many attendees?
-We are expecting around 20 attendees
+  We anticipate around 25 attendees, ensuring a close-knit and personal experience.
 
+---
 
-*Please prepare a full proposal with as many details as possible and share the Google Doc link here.*
+#### Vision, Goals, and Budget:
 
-- What is the vision for this event?
-H.E.R. DAO is a women-centered developer DAO that includes trans women and non-binary audiences.
-Success metrics - get 20 women to the event.
-Create a exeptional bonding experience, where everyone feels welcome and included.
-Give an opportunity for creating contacts for the women that are new in the ecosystem.
+- **Vision & Goals:** H.E.R. DAO's mission is to champion inclusion and diversity. Through this event, we aim to:
+  - Engage 25 enthusiastic participants.
+  - Foster a welcoming environment for all.
+  - Provide a platform for networking, especially beneficial for newcomers.
+  - Promote the event on all HER DAO Channels
+  
+- **Budget & Costs:** Our primary costs encompass:
+  - Delightful food and beverages for the attendees.
+  - (Budgetary estimations and supporting documents will be provided separately.)
 
-*Please include success metrics and describe what you want to achieve with the event.*
+#### Conclusion:
 
-- What type of costs need to be covered for your event?
-Food
-Venue reservation?
-
-- What is your Polkadot address?
-
-
-- What is the multisig address that shall receive the funds?
-
-*Funds for extraordinary events are distributed to a multisig.*
-
-- Upload an estimated budget for your event.
-
-*These are best submitted as a PDF, or pasted as a spreadsheet into your full proposal's Google Doc*
-
-- Upload supporting documents for your provisional budget.
-
-- Lastly, is there anything else you would like to add?
+Our event is meticulously crafted, keeping in mind the values and vision of the Polkadot/Kusama ecosystem. We believe that with the requested funding, we can create an unparalleled experience for all attendees, further strengthening the community's bonds and paving the way for more inclusive future endeavors.
