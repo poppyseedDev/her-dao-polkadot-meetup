@@ -12,11 +12,12 @@
 
 #### **2. Budget Breakdown:**
 
-| Item Description   | Unit Cost (€) | Quantity | Total Cost (€) |
-|--------------------|---------------|----------|----------------|
-| Food & Beverages   | 20            | 25       | 500            |
+| Item Description      | Unit Cost (€) | Quantity | Total Cost (€) |
+|-----------------------|---------------|----------|----------------|
+| Food & Beverages      | 20            | 25       | 500            |
+| Organizational Cost   | 100           | 2        | 200            |
 
 ---
 
 #### **3. Grand Total:**
-- **Total Estimated Event Cost:** €500
+- **Total Estimated Event Cost:** €700
